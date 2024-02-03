@@ -7,6 +7,6 @@
 <p> apos testar as imagens detecção de faces usei a funcionalidade transformação de imagens em Dados no Azure ML, as imagens se encontram na pasta output</p>
 
 
-<p>![ print da imagem usada na remoção de texto](https://github.com/jaisson-italo/Reconhecimento-Facial-e-transforma-o-de-imagens-em-Dados-no-Azure-ML/blob/main/prints/Captura%20de%20tela02.jpg)</p>
+![ print da imagem usada na remoção de texto](https://github.com/jaisson-italo/Reconhecimento-Facial-e-transforma-o-de-imagens-em-Dados-no-Azure-ML/blob/main/prints/Captura%20de%20tela02.jpg)
 
 ![ print da imagem usada na remoção de texto](https://github.com/jaisson-italo/Reconhecimento-Facial-e-transforma-o-de-imagens-em-Dados-no-Azure-ML/blob/main/prints/Captura%20de%20tela1.jpg)
